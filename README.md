@@ -2,3 +2,4 @@
 This repository is having algorithms of basic machine learning algorithm from scratch 
 1. Linear Regression
 2. Polynomial Regression
+3. Logistic Regression
